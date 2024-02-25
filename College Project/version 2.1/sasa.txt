@@ -1,0 +1,44 @@
+[117,228,224]
+
+[54,41,32] brown
+
+[196,174,156] light brown
+
+
+
+[44,169,166]
+
+[117,228,224]
+
+
+re_tution = lbl_tution.getText();
+            re_development = lbl_development.getText();
+            re_insurance = lbl_insurance.getText();
+            re_exam = lbl_exam.getText();
+            re_id = lbl_id.getText();
+            re_cmd = lbl_cmd.getText();
+            re_formFee = lbl_formfee.getText();
+            re_total = lbl_total.getText();
+
+            System.out.println(re_tution);
+
+            lbl_r_tution.setText(re_tution);
+            lbl_r_development.setText(re_development);
+            lbl_r_insurance.setText(re_insurance);
+            lbl_r_id.setText(re_id);
+            lbl_r_exam.setText(re_exam);
+            lbl_r_formFee.setText(re_formFee);
+            lbl_r_moneyDeposit.setText(re_cmd);
+            lbl_r_total.setText(re_total);
+
+
+
+
+
+ pnl_FeesStructure.setVisible(false);          
+        pnl_receipt.setVisible(false);
+         pnl_Payment.setVisible(true);  
+
+
+
+ 

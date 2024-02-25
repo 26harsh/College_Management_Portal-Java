@@ -1,0 +1,39 @@
+Sign up page background (baby purple ) = 232  196  244
+
+Student login background panel  (light blue )  and  login button  = 115  206  253
+
+Register Button (red colour) = 253  85  85
+
+All heading Text (dark blue ) = 152  32  82
+
+Admin Login  (background purple) =   217  144  243
+
+Logo ke baju wala University Text (crimson red) =   220  41  62  
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+4 modules wala page jiska background is gradient (Light red colour) = 255  207 207
+
+
+------------------------------------------------------------------------------------------------------------
+Library Management  (light green ) =  203  252  142
+
+Fees Management  (light yelow) =  255 241  115
+
+Student Profile ( purple)  =  217  145  244
+
+College Forum (light blue)  = 114  203  249
+
+
+------------------------------------------------------------------------------------------------------------
+
+baki ke sab colours are repeated.
+
+
+_____________________________________________________________________
+
+
+Frame Size  1600 X 900
